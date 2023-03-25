@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/downHole.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/Dug.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/maroon.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/orange.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/red.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/sky.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/skyToDirt.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/Tiles.jpg</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/upHole.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/yellow.png</File>
+    <File>C:/Users/trey.crowther/School/HackUSU/DigDug/DigDug/Content/Images/yellowToOrange.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

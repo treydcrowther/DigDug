@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3nj/DP6XVIDLqTCyy2+5GN0vqhMPEXQcYI25pgPOV7qwfEfkGU3VF3ogqeEcJ6jOV2mZgI52vvwfJY5AXLEjGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trey.crowther\\School\\HackUSU\\DigDug\\DigDug\\DigDug.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trey.crowther\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\trey.crowther\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
